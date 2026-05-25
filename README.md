@@ -22,11 +22,6 @@ O sistema atua em 4 frentes principais, análogas a comandos da linguagem SQL:
 * **Arquitetura:** Código totalmente modularizado em múltiplos arquivos `.c` e `.h` para separação de responsabilidades.
 * **Automação:** Uso de `Makefile` para rotinas de compilação.
 
-## ⚙️ Como executar o projeto
 
-Certifique-se de ter o compilador `gcc` e o `make` instalados na sua máquina.
-
-1. Clone este repositório.
-2. Compile o código usando o Makefile:
    ```bash
    make all
